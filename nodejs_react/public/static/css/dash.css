@@ -1,0 +1,83 @@
+body {
+	padding: 1.5%;
+	font: 85% "Lucida Grande", Helvetica, Arial;
+}
+.commonarea {
+	background-color: darkslateblue;
+	padding-bottom: 1.5%;
+}
+.logolink {
+	width:17%;
+	float: left; /* 水平摆放元素 */
+	padding-bottom: 0%;
+}
+.logo {
+	width:5%;
+	padding-bottom: 0%;
+	float: left; /* 水平摆放元素 */
+}
+.dashsearchbar {
+	border-radius: 7px!important;
+	float: left;
+	height: 5%;
+	margin-top: 2.5%;
+	margin-left: 5%;
+	background-color: rgb(255, 205, 130);
+	text-align:center;
+	padding-top: 0.5%;
+	padding-bottom: 0.5%;
+}
+.storebtn {
+	height: 5%;
+	width: 7%;
+	margin-top: 2.5%;
+	margin-left: 5%;
+	float: left;
+	border-radius: 10px!important;
+	background-color: darkgreen;
+	color: rgb(187, 228, 5);
+}
+.signinbtn {
+	height: 5%;
+	width: 7%;
+	margin-top: 2.5%;
+	margin-left: 2%;
+	float: left;
+	border-radius: 10px!important;
+	background-color: darkgreen;
+	color: rgb(187, 228, 5);
+}
+.profilebtn {
+	height: 5%;
+	width: 7%;
+	margin-top: 2.5%;
+	margin-left: 2%;
+	border-radius: 10px!important;
+	background-color: darkgreen;
+	color: rgb(187, 228, 5);
+}
+.subtitle {
+	margin-left: 10%;
+	margin-top: 1%;
+	float: left;
+	color: burlywood;
+}
+.children {
+	margin-left: 30%;
+}
+a { /* 去掉下划线 */
+	text-decoration:none
+}
+.test {
+	width: 20%;
+	margin-left: 5%;
+	float: left;
+	border-collapse:collapse;
+	background-color: chocolate;
+}
+.test dt {
+	background-color:#A7C942;
+}
+.test dd {
+	background-color:#EAF2D3;
+}

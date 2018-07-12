@@ -1,5 +1,3 @@
-# Front-and-Back
-SpringBoot+Nodejs+React
 # Break Down
-Back End: SpringBoot</br>
+Back End: SpringBoot+SpringSecurity</br>
 Front End: React+Nodejs</br>

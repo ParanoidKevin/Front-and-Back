@@ -28,7 +28,7 @@ public class CrmController {
         //String filePath = request.getSession().getServletContext().getRealPath("imgupload/");
         //logger.info(filePath);
         try {
-            FileUtil.uploadFile(file.getBytes(), "/Users/KevinFeng/temppic/", fileName);
+            FileUtil.uploadFile(file.getBytes(), "/", fileName);
         } catch (Exception e) {
             e.printStackTrace();
         }
